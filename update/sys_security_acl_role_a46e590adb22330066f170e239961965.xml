@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-11 09:24:30</sys_created_on>
+        <sys_id>a46e590adb22330066f170e239961965</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_376244_marketing_equipment_request.x_376244_marketing.user</sys_name>
+        <sys_package display_value="Marketing Events" source="x_376244_marketing">22c81d42db22330066f170e239961966</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Marketing Events">22c81d42db22330066f170e239961966</sys_scope>
+        <sys_security_acl display_value="x_376244_marketing_equipment_request">646e590adb22330066f170e239961962</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_a46e590adb22330066f170e239961965</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-11 09:24:30</sys_updated_on>
+        <sys_user_role display_value="x_376244_marketing.user" name="x_376244_marketing.user">5fc89d06db22330066f170e23996192f</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
